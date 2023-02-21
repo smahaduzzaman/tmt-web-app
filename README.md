@@ -1,8 +1,22 @@
-# Getting Started with Create React App
+# Getting Started with Create TMT Web Application
+This project was bootstrapped with React.js and React-Redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Site: https://tmt-crud-app.netlify.app
 
-## Available Scripts
+## Here in this project:
+- React Router Dom
+- React Icon
+- Framer-Motion
+- Row CSS
+- Google Fonts
+- React-Redux
+- Netlify
+
+### Author: S M Ahaduzzaman
+Email: smahaduzzaman96@gmail.com
+Phone: +8801729972223
+
+==================================
 
 In the project directory, you can run:
 

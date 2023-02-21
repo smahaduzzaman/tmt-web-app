@@ -1,4 +1,4 @@
-# Getting Started with Create TMT Web Application
+# Creating TMT Web Application
 This project was bootstrapped with React.js and React-Redux
 
 Live Site: https://tmt-crud-app.netlify.app
@@ -13,8 +13,8 @@ Live Site: https://tmt-crud-app.netlify.app
 - Netlify
 
 ### Author: S M Ahaduzzaman
-Email: smahaduzzaman96@gmail.com
-Phone: +8801729972223
+- Email: smahaduzzaman96@gmail.com
+- Phone: +8801729972223
 
 ==================================
 
